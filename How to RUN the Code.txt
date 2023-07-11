@@ -1,0 +1,17 @@
+The following are the steps to run the code without any difficulty-
+
+1) Download the zip file.
+2) Extract the zip file to a suitable folder.
+3) Open the folder in VS Code Editor.
+4) Open Terminal and run the command: npm install
+
+5) ***** Run the following command only if there is some dependency errors shown in the terminal  ***********
+   Run the command: npm config set legacy-peer-deps true 
+
+6) If you performed Step 5, then run the command: npm install.
+   The npm should get installed without any errors this time.
+
+7) Run the command: npm start
+
+8) This will open the project in the browser!
+  
