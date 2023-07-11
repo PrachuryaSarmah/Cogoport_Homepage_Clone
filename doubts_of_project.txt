@@ -1,0 +1,6 @@
+Following are some of the problems I faced while making the project-
+
+1)I was unable to put the "Video" Section
+2)I was unable to put the "Trusted By" Section
+3)The Navigation Bar is not working properly in Mobile view sometimes
+4)I was unable to replicate the icons
