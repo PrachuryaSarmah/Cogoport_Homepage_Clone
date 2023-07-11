@@ -68,7 +68,7 @@ export default function NavbarMain() {
               <li className="sidebarlist">
                 <div role="button" className="side-link">
                   {" "}
-                  <h3>Compnany</h3>
+                  <h3>Company</h3>
                   <ArrowRightIcon sx={{ width: "1em", height: "1em" }} />
                 </div>
               </li>
@@ -128,7 +128,7 @@ export default function NavbarMain() {
               </li>
               <li className="nav-item">
                 <div role="button" className="nav-link">
-                  Compnany
+                  Company
                   <ArrowDropDownIcon
                     sx={{ width: "1em", height: "1em" }}
                   />{" "}
